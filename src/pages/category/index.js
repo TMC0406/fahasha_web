@@ -6,7 +6,7 @@ import { MdNavigateNext } from 'react-icons/md';
 import * as ProductService from '~/service/ProductService';
 import Loading from '~/components/LoadingComponent';
 import classNames from 'classnames/bind';
-import styles from './Category.module.scss';
+import styles from './category.module.scss';
 import { Pagination } from 'antd';
 import { useSelector } from 'react-redux';
 import useDebounce from '~/hooks/useDebounce';

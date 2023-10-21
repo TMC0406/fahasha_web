@@ -7,7 +7,7 @@ import Register from '~/pages/Register';
 import Admin from '~/pages/Admin';
 import NotFoundPage from '~/pages/NotFoundPage';
 import SearchPage from '~/pages/SearchPage';
-import Category from '~/pages/Category';
+import Category from '~/pages/category';
 import CheckoutPage from '~/pages/CheckoutPage';
 import OrderSuccess from '~/pages/OrderSuccess';
 import MyOrder from '~/pages/MyOrder';
